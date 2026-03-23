@@ -33,7 +33,7 @@ I am a passionate developer dedicated to building functional and visually engagi
 
 ## 📫 Let's Connect!
 * **Website:** [vindoe.nl](https://vindoe.nl)
-* **LinkedIn:** [Karan Doerga](https://www.linkedin.com/in/karandoerga/) 
+* **LinkedIn:** [Karan Doerga](https://www.linkedin.com/in/karan-doerga/) 
 * **Email:** [Contact@vindoe.nl](mailto:contact@vindoe.nl)
 
 *"Code is like humor. When you have to explain it, it’s bad."*
