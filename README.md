@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Karan%20Doerga&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer%20|%20Creator%20of%20Vindoe.nl&descSize=25&descAlignY=60" width="100%" />
+</p>
+
 # Hi there, I'm Karan! 👋
 
 ### Full-stack Developer | Creator of [Vindoe.nl](https://vindoe.nl)
