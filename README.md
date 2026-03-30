@@ -29,12 +29,6 @@ I am a passionate developer dedicated to building functional and visually engagi
 
 ---
 
-## 📊 GitHub Stats
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranDoerga&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranDoerga&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect!
 * **Website:** [vindoe.nl](https://vindoe.nl)
 * **LinkedIn:** [Karan Doerga](https://www.linkedin.com/in/karan-doerga/) 
